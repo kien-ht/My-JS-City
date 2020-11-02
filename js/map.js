@@ -129,7 +129,7 @@ function helpClose() {
 function backToLoginHandler() {
   play(click);
   //link to login screen
-  location.href = "../index.html";
+  location.href = "./index.html";
 }
 
 // end of buttons
